@@ -1,1 +1,1 @@
-hostname router1-github
+hostname core-router0github
